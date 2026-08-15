@@ -1,0 +1,33 @@
+Vimp---change port number 5000
+vimp--->terminal npm install
+
+Open Terminal to Run(mysql2)->
+->cd backend
+->npm uninstall mysql
+->npm install mysql2
+->Change db.js as mysql2 insted of mysql
+->node server.js
+(server started on port 5000)
+
+Open Terminal to Run(mysql)->
+->cd backend
+->node server.js
+(server started on port 5000)
+
+Terminal 2->
+->cd frontend
+->npm start
+
+Package to Install
+Npm
+ES7+React/Redux/axios(Check & Install)
+
+Change Mysql Username and Password
+based on user
+
+Login.js
+ex: admin 1234
+
+Code based on Javascript & Mysql
+
+
